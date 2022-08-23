@@ -22,4 +22,4 @@ Screen 5             |
 :-------------------------:|:-------------------------:
 ![Load5](https://github.com/AstroAnasTariq/LoadApp/blob/main/screenshots/Screen_5.png)  |  
 
-<img src="https://github.com/AstroAnasTariq/LoadApp/blob/main/screenshots/Screen_5.png" width="200" height="400" />
+<img src="https://github.com/AstroAnasTariq/LoadApp/blob/main/screenshots/Screen_5.png" width="fit" height="fit" />
