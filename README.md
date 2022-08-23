@@ -20,4 +20,4 @@ Screen 3             |  Screen 4
 
 Screen 5
 
-<img src="https://github.com/AstroAnasTariq/LoadApp/blob/main/screenshots/Screen_5.png" width="600" height="fit" />
+<img src="https://github.com/AstroAnasTariq/LoadApp/blob/main/screenshots/Screen_5.png" width="450" height="fit" />
