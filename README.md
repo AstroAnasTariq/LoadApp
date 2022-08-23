@@ -18,8 +18,6 @@ Screen 3             |  Screen 4
 :-------------------------:|:-------------------------:
 ![Load3](https://github.com/AstroAnasTariq/LoadApp/blob/main/screenshots/Screen_3.png)  |  ![Load4](https://github.com/AstroAnasTariq/LoadApp/blob/main/screenshots/Screen_4.png)
 
-Screen 5             |
-:-------------------------:|:-------------------------:
-![Load5](https://github.com/AstroAnasTariq/LoadApp/blob/main/screenshots/Screen_5.png)  |  
+Screen 5
 
-<img src="https://github.com/AstroAnasTariq/LoadApp/blob/main/screenshots/Screen_5.png" width="fit" height="fit" />
+<img src="https://github.com/AstroAnasTariq/LoadApp/blob/main/screenshots/Screen_5.png" width="270" height="fit" />
